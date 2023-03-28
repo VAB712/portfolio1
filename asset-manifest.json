@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio1/static/css/main.c48f562e.css",
+    "main.js": "/portfolio1/static/js/main.da889044.js",
+    "static/media/react-trsnsparent-cutout.png": "/portfolio1/static/media/react-trsnsparent-cutout.81ed438b18e24116794d.png",
+    "static/media/Resume-Vaibhav.pdf": "/portfolio1/static/media/Resume-Vaibhav.8f76abeb1f9c376e2b2c.pdf",
+    "static/media/mail-trsnsparent-cutout.png": "/portfolio1/static/media/mail-trsnsparent-cutout.b05af4256b78b9d276ee.png",
+    "static/media/cpp-transparent-cutout.png": "/portfolio1/static/media/cpp-transparent-cutout.848ffa125321bf630b64.png",
+    "static/media/js-trsnsparent-cutout.png": "/portfolio1/static/media/js-trsnsparent-cutout.de7b7bb401e2a75f9bbf.png",
+    "static/media/navimg.jpg": "/portfolio1/static/media/navimg.0790f9e9b72ac732edd3.jpg",
+    "static/media/student.png": "/portfolio1/static/media/student.c59b2409466f3fcfd7a1.png",
+    "static/media/c-trsnsparent-cutout.png": "/portfolio1/static/media/c-trsnsparent-cutout.faa67b97f574421ee841.png",
+    "static/media/css-trsnsparent-cutout.png": "/portfolio1/static/media/css-trsnsparent-cutout.4e67641bb68b658d9b2b.png",
+    "static/media/html-trsnsparent-cutout.png": "/portfolio1/static/media/html-trsnsparent-cutout.d8736704484303963b1d.png",
+    "static/media/node-trsnsparent-cutout.png": "/portfolio1/static/media/node-trsnsparent-cutout.ac96a6c9c0e11031fc4b.png",
+    "static/media/linkedin-trsnsparent-cutout.png": "/portfolio1/static/media/linkedin-trsnsparent-cutout.c573a970ade36d41f5a8.png",
+    "static/media/java-trsnsparent-cutout.png": "/portfolio1/static/media/java-trsnsparent-cutout.1c2ae6f23b520e06b67d.png",
+    "static/media/insta-trsnsparent-cutout.png": "/portfolio1/static/media/insta-trsnsparent-cutout.0c24533c932e9b337c7c.png",
+    "index.html": "/portfolio1/index.html",
+    "main.c48f562e.css.map": "/portfolio1/static/css/main.c48f562e.css.map",
+    "main.da889044.js.map": "/portfolio1/static/js/main.da889044.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c48f562e.css",
+    "static/js/main.da889044.js"
+  ]
+}
