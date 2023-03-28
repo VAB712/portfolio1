@@ -1,0 +1,32 @@
+.about-full{
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}
+
+.about{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 90vh;
+    width: 50%;
+    padding-left: 10%;
+}
+
+.about-para{
+    width: 80%;
+    font-family: 'Tilt Neon', cursive;
+}
+
+.about h2{
+    text-align: left;
+}
+
+.about-cards{
+    position: relative;
+}
+
+.about-cards>*{
+    position: absolute;
+}
+

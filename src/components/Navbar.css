@@ -1,0 +1,52 @@
+h2{
+    text-align: center;
+    font-family: 'Carter One', cursive;
+}
+
+.n-top{
+        max-width: 100%;
+        height: auto;
+}
+
+.n-top img{
+    width: 100%;
+    height:auto;
+}
+
+.n-full{
+    padding: 5px 5px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    /* background: black; */
+    background: linear-gradient(to top, #6d6868 0%, #000000 50%);
+    color: rgb(255, 255, 255);
+    height: 99vh;
+    width: 10vw;
+    position: fixed;
+    top: 0;
+    align-items: center;
+    font-family: 'Tilt Prism', cursive;
+}
+
+.nav-ul{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    
+}
+
+li{
+    padding: 20px 0px;
+    cursor: pointer;  
+}
+
+.nav-ul li:hover{
+    color: rgb(255, 174, 53);
+}
+
+/* .fix{
+    margin: 2rem 2rem 2;
+} */

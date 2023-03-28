@@ -1,0 +1,21 @@
+.card{
+    width: 12vw;
+    height: auto;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 0.5rem;
+    align-items: center;
+    text-align: center;
+    background: rgba(192, 192, 192, 0.235);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    box-shadow: 10px 15px 10px 5px rgba(255, 133, 46, 0.626);
+    font-family: 'Tilt Neon', cursive;
+}
+
+.card img{
+    height: 5rem;
+    width: 5rem;
+}
